@@ -1,0 +1,8 @@
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\obj\Debug\03-ByteBank.csproj.AssemblyReference.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\obj\Debug\03-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\02.Tipos\03-ByteBank\obj\Debug\03-ByteBank.pdb
