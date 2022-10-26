@@ -1,7 +1,4 @@
-﻿
-
-
-public class ContaCorrente
+﻿public class ContaCorrente
 {
     public string titular;
     public int agencia;
@@ -14,10 +11,26 @@ public class ContaCorrente
         {
             return false;
         }
-        else
+
+        this.saldo -= valor;
+        return true;
+    }
+
+    public void Depositar(double valor)
+    {
+        this.saldo += valor;
+    }
+
+    public bool Transferir(double valor, ContaCorrente contaDestino)
+    {
+        if (this.saldo < valor)
         {
-            this.saldo -= valor;
-            return true;
+            return false;
         }
+
+        this.saldo -= valor;
+        contaDestino.Depositar(valor);
+
+        return true;
     }
 }
