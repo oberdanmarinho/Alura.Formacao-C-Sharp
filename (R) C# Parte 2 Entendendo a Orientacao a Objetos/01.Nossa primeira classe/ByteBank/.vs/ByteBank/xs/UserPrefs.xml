@@ -1,13 +1,21 @@
 ﻿<Properties StartupConfiguration="{BBBB113D-27FE-465B-AA53-5A6D39DC1E36}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../04.Namespace composicao e null/05-ByteBank/Cliente.cs">
+    <Files>
+      <File FileName="../../04.Namespace composicao e null/05-ByteBank/ContaCorrente.cs" Line="1" Column="1" />
+      <File FileName="../../04.Namespace composicao e null/05-ByteBank/Cliente.cs" Line="6" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ByteBank" expanded="True" selected="True" />
+          <Node name="ByteBank" expanded="True">
+            <Node name="05-ByteBank" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -16,6 +24,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.03-ByteBank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05-ByteBank PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01-ByteBank PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04-ByteBank PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
