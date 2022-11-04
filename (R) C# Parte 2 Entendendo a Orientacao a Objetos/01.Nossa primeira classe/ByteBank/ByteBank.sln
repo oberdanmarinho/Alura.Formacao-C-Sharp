@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ByteBank", "..\..\03.Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ByteBank", "..\..\04.Namespace composicao e null\05-ByteBank\05-ByteBank.csproj", "{640871B3-15AE-41EB-92CC-61DE775D6C1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ByteBank", "..\..\05.Propriedades\06-ByteBank\06-ByteBank.csproj", "{1B81AB3E-6FF2-4776-BEF9-6462513C18F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{640871B3-15AE-41EB-92CC-61DE775D6C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{640871B3-15AE-41EB-92CC-61DE775D6C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{640871B3-15AE-41EB-92CC-61DE775D6C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B81AB3E-6FF2-4776-BEF9-6462513C18F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B81AB3E-6FF2-4776-BEF9-6462513C18F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B81AB3E-6FF2-4776-BEF9-6462513C18F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B81AB3E-6FF2-4776-BEF9-6462513C18F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

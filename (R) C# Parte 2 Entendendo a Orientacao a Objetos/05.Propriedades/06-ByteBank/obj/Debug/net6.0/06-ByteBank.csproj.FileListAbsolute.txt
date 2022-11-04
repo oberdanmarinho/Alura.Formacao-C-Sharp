@@ -1,0 +1,15 @@
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\bin\Debug\net6.0\06-ByteBank.exe
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\bin\Debug\net6.0\06-ByteBank.deps.json
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\bin\Debug\net6.0\06-ByteBank.runtimeconfig.json
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\bin\Debug\net6.0\06-ByteBank.dll
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\bin\Debug\net6.0\06-ByteBank.pdb
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.AssemblyReference.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfoInputs.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfo.cs
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.dll
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\refint\06-ByteBank.dll
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.pdb
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\06-ByteBank.genruntimeconfig.cache
+C:\Projects\Alura.Formacao-C-Sharp\(R) C# Parte 2 Entendendo a Orientacao a Objetos\05.Propriedades\06-ByteBank\obj\Debug\net6.0\ref\06-ByteBank.dll
