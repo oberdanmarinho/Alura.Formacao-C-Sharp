@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\oberd\\.nuget\\packages\\": {}
+    "/Users/oberdanmarinho/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Alura.Formacao-C-Sharp\\(R) C# Parte 2 Entendendo a Orientacao a Objetos\\05.Propriedades\\06-ByteBank\\06-ByteBank.csproj",
+      "projectUniqueName": "/Users/oberdanmarinho/Projects/Studies/Alura/Alura.Formacao-C-Sharp/(R) C# Parte 2 Entendendo a Orientacao a Objetos/05.Propriedades/06-ByteBank/06-ByteBank.csproj",
       "projectName": "06-ByteBank",
-      "projectPath": "C:\\Projects\\Alura.Formacao-C-Sharp\\(R) C# Parte 2 Entendendo a Orientacao a Objetos\\05.Propriedades\\06-ByteBank\\06-ByteBank.csproj",
-      "packagesPath": "C:\\Users\\oberd\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Alura.Formacao-C-Sharp\\(R) C# Parte 2 Entendendo a Orientacao a Objetos\\05.Propriedades\\06-ByteBank\\obj\\",
+      "projectPath": "/Users/oberdanmarinho/Projects/Studies/Alura/Alura.Formacao-C-Sharp/(R) C# Parte 2 Entendendo a Orientacao a Objetos/05.Propriedades/06-ByteBank/06-ByteBank.csproj",
+      "packagesPath": "/Users/oberdanmarinho/.nuget/packages/",
+      "outputPath": "/Users/oberdanmarinho/Projects/Studies/Alura/Alura.Formacao-C-Sharp/(R) C# Parte 2 Entendendo a Orientacao a Objetos/05.Propriedades/06-ByteBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oberd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/oberdanmarinho/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
